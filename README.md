@@ -1,7 +1,7 @@
 # git-it-done
 
 ## Purpose
-
+Allows collaboration on projects by searching GitHub for projects with open issues.
 
 ## Built With
 * HTML
